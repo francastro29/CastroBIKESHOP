@@ -44,7 +44,9 @@ header{
     color: white !important;
 }
 
-
+.navbar div ul .nav-link{
+    color: white !important;
+}
 
 header h1{
     color: white;
